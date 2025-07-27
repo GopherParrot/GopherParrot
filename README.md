@@ -62,9 +62,7 @@ My hobbies are Origami (折り紙), Kirigami (切り紙) and Kumiko (組子), an
 
 ## <p align="center">My GitHub Stats & Activity <img src="https://media1.tenor.com/images/2d76769affec50319ae14cdd3cfd21ec/tenor.gif?itemid=15053329" width="40" height="40"></p>
 
-<p align="center">
-  ![GitHub Contribution Snake](https://github.com/GopherParrot/GopherParrot/blob/output/dist/github-contribution-grid-snake.svg)
-</p>
+![GitHub Contribution Snake](https://github.com/GopherParrot/GopherParrot/blob/output/dist/github-contribution-grid-snake.svg)
 
 <p align="center">
   ![Wakatime Stats](https://github.com/GopherParrot/GopherParrot/blob/main/metrics/wakatime.svg)
