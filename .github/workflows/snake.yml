@@ -1,25 +1,22 @@
-name: Generate Snake Contribution
+name: Generate Snake Animation
 
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: platane/snk@v3
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
         with:
-          github_user_name: GopherParrot # Make sure this is YOUR GitHub username!
-          outputs: |
-            dist/github-snake.svg
-      - name: Push to GitHub
-        uses: git-auto-commit-action@v5
+          github_user_name: GopherParrot
+          outputs: dist/github-contribution-grid-snake.svg
+      - name: Push snake animation to output branch
+        uses: actions/checkout@v4
         with:
-          commit_message: "Generate Snake Contribution"
-          branch: main
+          ref: output
+      - run: git add dist/github-contribution-grid-snake.svg
+      # (add other necessary steps)
