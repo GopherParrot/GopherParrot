@@ -54,7 +54,7 @@ My hobbies are Origami (折り紙), Kirigami (切り紙) and Kumiko (組子), an
 <img src="https://avatars.githubusercontent.com/u/25699522?s=280&v=4" width="70" height="70"> <!-- C -->
 <img src="https://fileviewerplus.com/img/icon/256/cpp-68.png" width="70" height="70"> <!-- C++ -->
 <img src="https://camo.githubusercontent.com/a8c24c0c69005509721bcfa06b7818b2a732447e11f1a36c8cbda6937e533cd3/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667" width="70" height="70"> <!-- Java -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/800px-Logo_C_sharp.svg.png" width="70" height="70"> <!-- C# -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/800px-Logo_C_sharp.svg.png" width="60" height="70"> <!-- C# -->
 <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width="70" height="70"> <!-- Python -->
 <img src="https://th.bing.com/th/id/R.6c8f0a0e377cfa70efcd35ff52893b17?rik=iqhl8JD0f9LLpA&pid=ImgRaw&r=0" width="70" height="70"> <!-- HTML -->
 <img src="https://logospng.org/download/css-3/logo-css-3-2048.png" width="70" height="70"> <!-- CSS -->
