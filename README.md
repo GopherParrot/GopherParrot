@@ -23,7 +23,7 @@ type InfoAboutMe struct {
 }
 
 var introduce = InfoAboutMe{
-  Person: Info{Name: "Willie Parrot", Age: 21, IsStudent: true}, // Um actually I'm 13 ☝🤓
+  Info: Info{Name: "Willie Parrot", Age: 21, IsStudent: true}, // Um actually I'm 13 ☝🤓
   Hobby: "Origami (折り紙), Kirigami (切り紙) and Kumiko (組子), and I'm not Japanese",
 }
  
