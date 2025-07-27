@@ -54,11 +54,11 @@ My hobbies are Origami (折り紙), Kirigami (切り紙) and Kumiko (組子), an
 <img src="https://avatars.githubusercontent.com/u/25699522?s=280&v=4" width="70" height="70"> <!-- C -->
 <img src="https://fileviewerplus.com/img/icon/256/cpp-68.png" width="70" height="70"> <!-- C++ -->
 <img src="https://camo.githubusercontent.com/a8c24c0c69005509721bcfa06b7818b2a732447e11f1a36c8cbda6937e533cd3/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667" width="70" height="70"> <!-- Java -->
-<img src="https://img.favpng.com/6/5/22/c-c-computer-programming-javascript-png-favpng-sTm9jdJwydsHcfsEP3zi4q4gj.jpg" width="70" height="70"> <!-- C# -->
-<img src="https://tse2.mm.bing.net/th/id/OIP.QbzDMgFIXwFj5L4La8RJ5gHaGb?rs=1&pid=ImgDetMain&o=7&rm=3" width="70" height="70"> <!-- Python -->
+<img src="https://w7.pngwing.com/pngs/51/656/png-transparent-c-hd-logo.png" width="70" height="70"> <!-- C# -->
+<img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width="70" height="70"> <!-- Python -->
 <img src="https://th.bing.com/th/id/R.6c8f0a0e377cfa70efcd35ff52893b17?rik=iqhl8JD0f9LLpA&pid=ImgRaw&r=0" width="70" height="70"> <!-- HTML -->
-<img src="https://tse2.mm.bing.net/th/id/OIP.aiII04uB8m611vQPSw7HfgHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" width="70" height="70"> <!-- CSS -->
-<img src="https://tse3.mm.bing.net/th/id/OIP.NZBnS3y0T8HUec7HVWScUQHaE8?rs=1&pid=ImgDetMain&o=7&rm=3" width="70" height="70"> <!-- JavaScript -->
+<img src="https://logospng.org/download/css-3/logo-css-3-2048.png" width="70" height="70"> <!-- CSS -->
+<img src="https://th.bing.com/th/id/R.04c5f18749c6a1c64b65f6d8f26d7b53?rik=LkrYgbJM3QA11g&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fjavascript-vector-png-javascript-vector-logo-600.png&ehk=AXgaWQyvJOW74V%2fR1QuC2sk1YLpGBMJiGQVzBM07y2Q%3d&risl=&pid=ImgRaw&r=0" width="70" height="70"> <!-- JavaScript -->
 
 <!-- 
 **GopherParrot/GopherParrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
