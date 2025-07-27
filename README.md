@@ -1,8 +1,4 @@
-## <p align="center">![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GopherParrot&theme=dark&hide_border=true)</p>
-
-## <p align="center">![GopherParrot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GopherParrot&show_icons=true&theme=tokyonight&hide_rank=true&count_private=true&custom_title=My%20Code%20Journey)</p>
-
-# <p align="center">Hi! <img src="https://raw.githubusercontent.com/light-hat/light-hat/refs/heads/main/assets/hello.gif" width="30" height="30"> I'm Willie Parrot <img src="https://c.tenor.com/x-kqDAmw2NQAAAAM/parrot-party.gif" width="30" height="40"></p>
+# <p align="center">Oh hi! <img src="https://raw.githubusercontent.com/light-hat/light-hat/refs/heads/main/assets/hello.gif" width="30" height="30"> I'm Willie Parrot <img src="https://c.tenor.com/x-kqDAmw2NQAAAAM/parrot-party.gif" width="30" height="40"></p>
 <p align="center">Hi again! I really like coding
 <img src="https://media1.tenor.com/m/JIS_KDKKsgYAAAAd/guaton-computadora.gif" width="70" height="70"></p>
 <hr>
@@ -61,10 +57,15 @@ My hobbies are Origami (折り紙), Kirigami (切り紙) and Kumiko (組子), an
 
 ## <p align="center">![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GopherParrot&theme=dark&hide_border=true)</p>
 
-## Just want to show it again :)
 ## <p align="center">My GitHub Stats <img src="https://media1.tenor.com/images/2d76769affec50319ae14cdd3cfd21ec/tenor.gif?itemid=15053329" width="40" height="40"></p>
 
 ## <p align="center">![GopherParrot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GopherParrot&show_icons=true&theme=tokyonight&hide_rank=true&count_private=true&custom_title=My%20Code%20Journey)</p>
+
+## <p align="center">My most used language <img src="Https://media1.tenor.com/images/2d76769affec50319ae14cdd3cfd21ec/tenor.gif?itemid=15053329" width="40" height="40"></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GopherParrot&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GopherParrot&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+</div><br>
 
 ## That's all you should know :) Bye <img src="https://raw.githubusercontent.com/light-hat/light-hat/refs/heads/main/assets/hello.gif" width="30" height="30">
 <!-- 
