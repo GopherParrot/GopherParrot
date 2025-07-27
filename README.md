@@ -48,6 +48,9 @@ Am I a student? yes
 My hobbies are Origami (折り紙), Kirigami (切り紙) and Kumiko (組子), and I'm not Japanese
 ```
 
+## <p align="center">Skills and Tech Stack</p>
+### <img src="https://media1.tenor.com/images/2d76769affec50319ae14cdd3cfd21ec/tenor.gif?itemid=15053329" width="40" height="40"> Languages:
+<img src="https://media.tenor.com/TCMWkxIkF9IAAAAi/dancing-gopher.gif"><img src="https://camo.githubusercontent.com/a8c24c0c69005509721bcfa06b7818b2a732447e11f1a36c8cbda6937e533cd3/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667">
 <!-- 
 **GopherParrot/GopherParrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
