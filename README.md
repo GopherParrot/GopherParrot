@@ -49,16 +49,32 @@ My hobbies are Origami (折り紙), Kirigami (切り紙) and Kumiko (組子), an
 ```
 
 ## <p align="center">Skills and Tech Stack</p>
-### <img src="https://media1.tenor.com/images/2d76769affec50319ae14cdd3cfd21ec/tenor.gif?itemid=15053329" width="40" height="40"> Languages:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,python,javascript,html,css,typescript,react,mysql,nodejs,django,vscode,github,git,docker,googlecloud,arduino,c,cpp,java,csharp&perline=8&theme=dark" alt="My Skills">
+</p>
+
 <img src="https://media.tenor.com/TCMWkxIkF9IAAAAi/dancing-gopher.gif" width="70" height="70"> <!-- Golang -->
 <img src="https://avatars.githubusercontent.com/u/25699522?s=280&v=4" width="70" height="70"> <!-- C -->
 <img src="https://fileviewerplus.com/img/icon/256/cpp-68.png" width="70" height="70"> <!-- C++ -->
 <img src="https://camo.githubusercontent.com/a8c24c0c69005509721bcfa06b7818b2a732447e11f1a36c8cbda6937e533cd3/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667" width="70" height="70"> <!-- Java -->
+<img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" width="70" height="70"> <!-- Arduino -->
+<img src="https://github.com/user-attachments/assets/e005ac35-abf1-49ff-9242-c644063964fd" width="70" height="70"> <!-- ESP32 -->
+<img src="https://github.com/user-attachments/assets/3002322a-79f8-4368-892f-cccc98bdec94" width="70" height="70"> <!-- Raspberry Pi -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/800px-Logo_C_sharp.svg.png" width="60" height="70"> <!-- C# -->
 <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width="70" height="70"> <!-- Python -->
 <img src="https://th.bing.com/th/id/R.6c8f0a0e377cfa70efcd35ff52893b17?rik=iqhl8JD0f9LLpA&pid=ImgRaw&r=0" width="70" height="70"> <!-- HTML -->
 <img src="https://logospng.org/download/css-3/logo-css-3-2048.png" width="70" height="70"> <!-- CSS -->
 <img src="https://th.bing.com/th/id/R.04c5f18749c6a1c64b65f6d8f26d7b53?rik=LkrYgbJM3QA11g&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fjavascript-vector-png-javascript-vector-logo-600.png&ehk=AXgaWQyvJOW74V%2fR1QuC2sk1YLpGBMJiGQVzBM07y2Q%3d&risl=&pid=ImgRaw&r=0" width="70" height="70"> <!-- JavaScript -->
+<img src="https://logospng.org/wp-content/uploads/typescript-768x432.png" width="70" height="70"> <!-- TypeScript -->
+<img src="https://camo.githubusercontent.com/0fcf9befefc83e207ed36bdeb3ac4f6c99132571ddb0f44e7a6ac872b0723352/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" width="70" height="70"> <!-- React.js -->
+<img src="https://camo.githubusercontent.com/3ed284d0ecd9fcccabf0711e2cad6bbec412e417bcfb1da25502a1ed9adbaf78/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667" width="70" height="70"> <!-- MySQL -->
+<img src="https://logospng.org/download/node-js/logo-node-js-1024.png" width="70" height="70"> <!-- Node.js -->
+<img src="https://www.vhv.rs/dpng/d/208-2081416_django-development-png-transparent-django-logo-png-download.png" width="70" height="70"> <!-- Django -->
+<img src="https://th.bing.com/th/id/R.bfe7fc2d925b4b64426abcdbe4287a63?rik=xSaRj%2fuYsdeC%2bA&pid=ImgRaw&r=0" width="70" height="70"> <!-- VS Code -->
+<img src="https://camo.githubusercontent.com/5f4b9172a9838699a85ea70bd685703967435a46a36adca723eba29b945e2ae8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" width="70" height="70"> <!-- GitHub -->
+<img src="https://github.com/user-attachments/assets/f4ca6782-459b-477d-a6bc-12842728562d" width="70" height="70"> <!-- Git -->
+<img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Emblem.png" width="70" height="70"> <!-- Docker -->
+<img src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Symbol.png" width="70" height="70"> <!-- Google Cloud -->
 
 <!-- 
 **GopherParrot/GopherParrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
