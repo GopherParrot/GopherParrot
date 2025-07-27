@@ -1,4 +1,4 @@
-## Hi ![wave][https://media.tenor.com/nbMpkIieJngAAAAC/macaw-shhh.gif] I'm 
+## Hi ![wave](https://media.tenor.com/nbMpkIieJngAAAAC/macaw-shhh.gif) I'm 
 Hey, I'm Willie Parrot, and I'm a 13-year-old who's totally into the programming world. Yes I'm 13, trust me...
 <!--
 **GopherParrot/GopherParrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
