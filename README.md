@@ -59,20 +59,7 @@ My hobbies are Origami (折り紙), Kirigami (切り紙) and Kumiko (組子), an
 
 ## <p align="center">![GopherParrot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GopherParrot&show_icons=true&theme=tokyonight&hide_rank=true&count_private=true&custom_title=My%20Code%20Journey)</p>
 
-
-## <p align="center">My GitHub Stats & Activity <img src="https://media1.tenor.com/images/2d76769affec50319ae14cdd3cfd21ec/tenor.gif?itemid=15053329" width="40" height="40"></p>
-
-![GitHub Contribution Snake](https://github.com/GopherParrot/GopherParrot/blob/output/dist/github-contribution-grid-snake.svg)
-
-<p align="center">
-  ![Wakatime Stats](https://github.com/GopherParrot/GopherParrot/blob/main/metrics/wakatime.svg)
-</p>
-
-<p align="center">
-  ![Profile Views](https://views.whatilearn.today/views/github/GopherParrot/README.md)
-</p>
-<!--## <p align="center">![Most Used Repos](https://github-readme-stats.vercel.app/api/pin/?username=GopherParrot&repo=YOUR_POPULAR_REPO_1&theme=tokyonight)</p>
-## <p align="center">![Most Used Repos](https://github-readme-stats.vercel.app/api/pin/?username=GopherParrot&repo=YOUR_POPULAR_REPO_2&theme=tokyonight)</p>-->
+## That's all you should know :) Bye 👋
 <!-- 
 **GopherParrot/GopherParrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
