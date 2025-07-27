@@ -1,5 +1,5 @@
 ## Hi! <img src="https://raw.githubusercontent.com/light-hat/light-hat/refs/heads/main/assets/hello.gif" width="30" height="30"> I'm Willie Parrot <img src="https://c.tenor.com/x-kqDAmw2NQAAAAM/parrot-party.gif" width="30" height="40">  
-Hi again! I like Origami (折り紙)  
+Hi again! My name is Willie Parrot and I like Origami (折り紙)  
 But Parrot, what the flip is that Japanese word you asked? let me explain:  
 Ori (折り) = fold  
 Kami (紙) = paper  
