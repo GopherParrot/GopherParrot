@@ -32,7 +32,7 @@ func main() {
   fmt.Println("Am I a student? ", amIaStudent)
   fmt.Println("My hobbies are ", introduce.Hobby)
 }
-```
+
 <!-- 
 **GopherParrot/GopherParrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
