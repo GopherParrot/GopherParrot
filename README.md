@@ -1,5 +1,4 @@
-## Welcome!
-## Hi! <img src="https://raw.githubusercontent.com/light-hat/light-hat/refs/heads/main/assets/hello.gif" alt="Waving" width="30" height="30">
+## Hi! <img src="https://raw.githubusercontent.com/light-hat/light-hat/refs/heads/main/assets/hello.gif" width="30" height="30"> I'm Willie Parrot <img src="https://c.tenor.com/x-kqDAmw2NQAAAAM/parrot-party.gif" width="30" height="30">
 Hey, I'm Willie Parrot, and I'm a 13-year-old who's totally into the programming world. Yes I'm 13, trust me...
 <!--
 **GopherParrot/GopherParrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
