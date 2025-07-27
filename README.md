@@ -1,10 +1,10 @@
-## Hi! <img src="https://raw.githubusercontent.com/light-hat/light-hat/refs/heads/main/assets/hello.gif" width="30" height="30"> I'm Willie Parrot <img src="https://c.tenor.com/x-kqDAmw2NQAAAAM/parrot-party.gif" width="30" height="40">
-Hi again! I like Origami (折り紙)\n
-But Parrot, what the flip is that Japanese word you asked? let me explain:\n
-Ori (折り) = fold\n
-Kami (紙) = paper\n
-or "fold paper", it's the art of folding a single sheet of paper into a desired shape without cutting, gluing, or marking :)\n
-I also working with Kirigami (切り紙) and Kumiko (組子) beside coding.
+## Hi! <img src="https://raw.githubusercontent.com/light-hat/light-hat/refs/heads/main/assets/hello.gif" width="30" height="30"> I'm Willie Parrot <img src="https://c.tenor.com/x-kqDAmw2NQAAAAM/parrot-party.gif" width="30" height="40">  
+Hi again! I like Origami (折り紙)  
+But Parrot, what the flip is that Japanese word you asked? let me explain:  
+Ori (折り) = fold  
+Kami (紙) = paper  
+or "fold paper", it's the art of folding a single sheet of paper into a desired shape without cutting, gluing, or marking :)  
+I also working with Kirigami (切り紙) and Kumiko (組子) beside coding.  
 <!--
 **GopherParrot/GopherParrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
