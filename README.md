@@ -37,6 +37,16 @@ func main() {
   fmt.Println("My hobbies are ", introduce.Hobby)
 }
 ```
+
+You don't know the output? Let me help you :)
+Output:
+```
+My name is Willie Parrot
+I am 21 years old
+Am I a student? yes
+My hobbies are Origami (折り紙), Kirigami (切り紙) and Kumiko (組子), and I'm not Japanese
+```
+
 <!-- 
 **GopherParrot/GopherParrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
