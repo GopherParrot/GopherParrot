@@ -47,10 +47,15 @@ I am 21 years old
 Am I a student? yes
 My hobbies are Origami (折り紙), Kirigami (切り紙) and Kumiko (組子), and I'm not Japanese
 ```
-
+<hr>
 ## <p align="center">Skills and Tech Stack</p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,python,javascript,html,css,typescript,react,mysql,nodejs,django,vscode,github,git,docker,googlecloud,arduino,c,cpp,java,cs,firebase,flutter,gitlab,godot,neovim,raspberrypi,stackoverflow,gmail,eclipse,&perline=8&theme=dark" alt="My Skills">
+</p>
+<hr>
+## 📊 My GitHub Stats
+<p align="center">
+  ![Willie Parrot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WillieParrot&show_icons=true&theme=tokyonight&hide_rank=true&count_private=true&custom_title=My%20Code%20Journey)
 </p>
 
 <!-- 
