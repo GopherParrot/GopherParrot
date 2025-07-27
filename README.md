@@ -1,3 +1,7 @@
+## <p align="center">![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GopherParrot&theme=dark&hide_border=true)</p>
+
+## <p align="center">![GopherParrot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GopherParrot&show_icons=true&theme=tokyonight&hide_rank=true&count_private=true&custom_title=My%20Code%20Journey)</p>
+
 # <p align="center">Hi! <img src="https://raw.githubusercontent.com/light-hat/light-hat/refs/heads/main/assets/hello.gif" width="30" height="30"> I'm Willie Parrot <img src="https://c.tenor.com/x-kqDAmw2NQAAAAM/parrot-party.gif" width="30" height="40"></p>
 <p align="center">Hi again! I really like coding
 <img src="https://media1.tenor.com/m/JIS_KDKKsgYAAAAd/guaton-computadora.gif" width="70" height="70"></p>
@@ -57,6 +61,7 @@ My hobbies are Origami (折り紙), Kirigami (切り紙) and Kumiko (組子), an
 
 ## <p align="center">![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GopherParrot&theme=dark&hide_border=true)</p>
 
+## Just want to show it again :)
 ## <p align="center">My GitHub Stats <img src="https://media1.tenor.com/images/2d76769affec50319ae14cdd3cfd21ec/tenor.gif?itemid=15053329" width="40" height="40"></p>
 
 ## <p align="center">![GopherParrot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GopherParrot&show_icons=true&theme=tokyonight&hide_rank=true&count_private=true&custom_title=My%20Code%20Journey)</p>
