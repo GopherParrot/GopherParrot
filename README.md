@@ -1,4 +1,4 @@
-# <p align="center">Hi! <img src="https://raw.githubusercontent.com/light-hat/light-hat/refs/heads/main/assets/hello.gif" width="30" height="30"> I'm Willie Parrot <img src="https://c.tenor.com/x-kqDAmw2NQAAAAM/parrot-party.gif" width="30" height="40"></p>
+ok# <p align="center">Hi! <img src="https://raw.githubusercontent.com/light-hat/light-hat/refs/heads/main/assets/hello.gif" width="30" height="30"> I'm Willie Parrot <img src="https://c.tenor.com/x-kqDAmw2NQAAAAM/parrot-party.gif" width="30" height="40"></p>
 <p align="center">Hi again! I really like coding <img src="https://media1.tenor.com/m/JIS_KDKKsgYAAAAd/guaton-computadora.gif" width="40" height="40"></p>  
 <hr>
 
@@ -38,7 +38,7 @@ func main() {
 }
 ```
 
-You don't know the output? Let me help you :)
+You don't know the output? Let me help you :)  
 Output:
 ```
 My name is Willie Parrot
