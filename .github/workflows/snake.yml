@@ -2,27 +2,24 @@ name: Generate Snake Contribution
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight UTC
-  workflow_dispatch: # Allows manual trigger from the "Actions" tab
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 permissions:
-  contents: write # This is crucial!
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4 # Ensure this is 'v4'
-      - uses: platane/snk@v3     # Ensure this is 'v3'
+      - uses: actions/checkout@v4
+      - uses: platane/snk@v3
         with:
-          github_user_name: GopherParrot # IMPORTANT: Make sure this is YOUR GitHub username!
+          github_user_name: GopherParrot # Make sure this is YOUR GitHub username!
           outputs: |
             dist/github-snake.svg
-            # Optional outputs - uncomment if needed
-            # dist/github-snake-dark.svg?palette=github-dark
-            # dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8f7eef,#80ffb5,#ebf8ff&color_calendar=orange,darkblue,darkgreen,darkred
       - name: Push to GitHub
-        uses: git-auto-commit-action@v5 # Ensure this is 'v5'
+        uses: git-auto-commit-action@v5
         with:
           commit_message: "Generate Snake Contribution"
-          branch: main # Or 'master', depending on your default branch
+          branch: main
