@@ -13,7 +13,7 @@ type Info struct {
 }
 
 type InfoAboutMe struct {
-  Person
+  Info
   Hobby string
 }
 
