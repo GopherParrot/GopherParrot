@@ -67,6 +67,15 @@ My hobbies are Origami (折り紙), Kirigami (切り紙) and Kumiko (組子), an
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GopherParrot&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph" />
 </div><br>
 
+<div align="center" class="markdown-heading" dir="auto">
+    <h2 class="heading-element" dir="auto">
+    <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GopherParrot/GopherParrot/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GopherParrot/GopherParrot/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hiras1388/Hiras1388/output/pacman-contribution-graph.svg">
+  </picture>
+</div>
+
 ## That's all you should know :) Bye <img src="https://raw.githubusercontent.com/light-hat/light-hat/refs/heads/main/assets/hello.gif" width="30" height="30">
 <!-- 
 **GopherParrot/GopherParrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
