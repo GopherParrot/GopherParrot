@@ -1,10 +1,10 @@
-# <p align="center">Hi! <img src="https://raw.githubusercontent.com/light-hat/light-hat/refs/heads/main/assets/hello.gif" width="30" height="30"> I'm Willie Parrot <img src="https://c.tenor.com/x-kqDAmw2NQAAAAM/parrot-party.gif" width="30" height="40"></p>
+# <p align="center">Hi!<img src="https://raw.githubusercontent.com/light-hat/light-hat/refs/heads/main/assets/hello.gif" width="30" height="30"> I'm Willie Parrot <img src="https://c.tenor.com/x-kqDAmw2NQAAAAM/parrot-party.gif" width="30" height="40"></p>
 <p align="center">Hi again! I really like coding
 <img src="https://media1.tenor.com/m/JIS_KDKKsgYAAAAd/guaton-computadora.gif" width="70" height="70"></p>
 <hr>
 
 <!--  === ABOUT ME === -->
-## <p align="center">About Me <img src="https://media1.tenor.com/images/2d76769affec50319ae14cdd3cfd21ec/tenor.gif?itemid=15053329" width="40" height="40"></p>
+## <p align="center">About Me<img src="https://media1.tenor.com/images/2d76769affec50319ae14cdd3cfd21ec/tenor.gif?itemid=15053329" width="40" height="40"></p>
 
 ```go
 package main
@@ -48,13 +48,12 @@ Am I a student? yes
 My hobbies are Origami (折り紙), Kirigami (切り紙) and Kumiko (組子), and I'm not Japanese
 ```
 
-## <p align="center">Skills and Tech Stack <img src="https://media1.tenor.com/images/2d76769affec50319ae14cdd3cfd21ec/tenor.gif?itemid=15053329" width="40" height="40"></p>
+## <p align="center">Skills and Tech Stack<img src="https://media1.tenor.com/images/2d76769affec50319ae14cdd3cfd21ec/tenor.gif?itemid=15053329" width="40" height="40"></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,python,javascript,html,css,typescript,react,mysql,nodejs,django,vscode,github,git,docker,googlecloud,arduino,c,cpp,java,cs,firebase,flutter,gitlab,godot,neovim,raspberrypi,stackoverflow,gmail,eclipse,&perline=8&theme=dark" alt="My Skills">
 </p>
 
-## <p align="center">My GitHub Stats <img src="https://media1.tenor.com/images/2d76769affec50319ae14cdd3cfd21ec/tenor.gif?itemid=15053329" width="40" height="40"></p>
-
+## <p align="center">My GitHub Stats<img src="https://media1.tenor.com/images/2d76769affec50319ae14cdd3cfd21ec/tenor.gif?itemid=15053329" width="40" height="40"></p>
 
 <p align="center">
   ![GopherParrot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GopherParrot&show_icons=true&theme=tokyonight&hide_rank=true&count_private=true&custom_title=My%20Code%20Journey)
