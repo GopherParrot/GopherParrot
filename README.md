@@ -68,6 +68,10 @@ My hobbies are Origami (折り紙), Kirigami (切り紙) and Kumiko (組子), an
 </div><br>
 
 ## That's all you should know :) Bye <img src="https://raw.githubusercontent.com/light-hat/light-hat/refs/heads/main/assets/hello.gif" width="30" height="30">
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 <!-- 
 **GopherParrot/GopherParrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
