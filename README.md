@@ -50,7 +50,7 @@ My hobbies are Origami (折り紙), Kirigami (切り紙) and Kumiko (組子), an
 
 ## <p align="center">Skills and Tech Stack <img src="https://media1.tenor.com/images/2d76769affec50319ae14cdd3cfd21ec/tenor.gif?itemid=15053329" width="40" height="40"></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,javascript,html,css,typescript,react,mysql,nodejs,django,vscode,github,git,docker,googlecloud,arduino,c,cpp,java,cs,firebase,flutter,gitlab,godot,neovim,raspberrypi,stackoverflow,gmail,eclipse,&perline=8&theme=dark" alt="My Skills">
+  <img src="https://skillicons.dev/icons?i=go,python,javascript,html,css,typescript,react,mysql,nodejs,django,vscode,github,git,docker,googlecloud,arduino,c,cpp,java,cs,firebase,flutter,gitlab,godot,neovim,raspberrypi,stackoverflow,gmail,eclipse,flask,&perline=8&theme=dark" alt="My Skills">
 </p>
 
 ## <p align="center">My GitHub Streak <img src="https://media1.tenor.com/images/2d76769affec50319ae14cdd3cfd21ec/tenor.gif?itemid=15053329" width="40" height="40"></p>
