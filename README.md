@@ -55,7 +55,7 @@ My hobbies are Origami (折り紙), Kirigami (切り紙) and Kumiko (組子), an
 
 ## <p align="center">My GitHub Streak <img src="https://media1.tenor.com/images/2d76769affec50319ae14cdd3cfd21ec/tenor.gif?itemid=15053329" width="40" height="40"></p>
 
-## <p align="center">![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GopherParrot&theme=tokyonight&hide_border=true)</p>
+## <p align="center">![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GopherParrot&theme=dark&hide_border=true)</p>
 
 ## <p align="center">My GitHub Stats <img src="https://media1.tenor.com/images/2d76769affec50319ae14cdd3cfd21ec/tenor.gif?itemid=15053329" width="40" height="40"></p>
 
