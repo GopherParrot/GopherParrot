@@ -24,7 +24,7 @@ type InfoAboutMe struct {
 
 var introduce = InfoAboutMe{
   Info: Info{Name: "Willie Parrot", Age: 14, IsStudent: true},
-  Hobby: "Origami (折り紙), Kirigami (切り紙) and Kumiko (組子), and I'm not Japanese",
+  Hobby: "Coding, Origami (折り紙), Basketball, Baseball",
 }
  
 func main() {
