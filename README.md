@@ -1,43 +1,54 @@
-#0# <p align="center"> Why don't programmers like nature?</p>
-
-<p align="center">too many bugs</p><hr>isnt that funny?
-
-<p align="center">Yo I'm William </p>
-
-<p align="center"><img src="https://media.tenor.com/7UHqqhLP8tgAAAAi/stk.gif" width=100></p>I am a STUDENT who spends too much time writing Go.
-
+# <p align="center"> Why don't programmers like nature?</p>  
+<p align="center">too many bugs</p>  
+<hr>  
+isnt that funny?  
+  
+# <p align="center">Yo I'm **William** </p>  
+<p align="center"><img src="https://media.tenor.com/7UHqqhLP8tgAAAAi/stk.gif" width=100></p>  
+  
+I am a **STUDENT** who spends too much time writing **Go**.  
+  
 That being said,
 
-My error handling has error handling
-
-<hr><p align="center"> More about me if you're curious</p>
-
-<p align="center">1 - Skills and Tech Stack </p>
-
-<p align="center">  <img src="https://skillicons.dev/icons?i=go,blender,python,javascript,html,css,mysql,vscode,github,git,docker,googlecloud,arduino,c,cpp,java,cs,firebase,flutter,gitlab,godot,neovim,raspberrypi,stackoverflow,gmail,eclipse,vercel,lua,bash&perline=8&theme=dark" alt="My Skills"></p><p align="center">2 - My GitHub Streak</p>
-
-<p align="center"></p>
-
-<p align="center">3 - My GitHub Stats </p>
-
-<p align="center"></p>
-
-<p align="center">My most used language </p>
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=GopherParrot&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /><br>
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GopherParrot&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph" /></div><br>
-
-##. And some random facts, shall we?
-
-- Everything I build lives under Maple Studio
--I think terminal apps deserve good UI
--Robotics is just programming with consequences
--`print()` is my friend for debugging ✌
-
-<p align="center">Nice. You know too much now, good to see you around, bye :D✌
-
-</p><p align="center">Happy Coding!
-
-</p><p align="center"> may your bugs always reproduce exponentially 🔥 </p>
+My error handling has error handling.  
+  
+<hr>  
+  
+# <p align="center"> More about me if you're curious</p>  
+## <p align="center">1 - *Skills and Tech Stack* </p>  
+<p align="center">  
+  <img src="https://skillicons.dev/icons?i=go,blender,python,javascript,html,css,mysql,vscode,github,git,docker,googlecloud,arduino,c,cpp,java,cs,firebase,flutter,gitlab,godot,neovim,raspberrypi,stackoverflow,gmail,eclipse,vercel,lua,bash&perline=8&theme=dark" alt="My Skills">  
+</p>  
+  
+## <p align="center">2 - *My GitHub Streak*</p>  
+  
+## <p align="center">![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GopherParrot&theme=dark&hide_border=true)</p>  
+  
+## <p align="center">3 - *My GitHub Stats* </p>  
+  
+## <p align="center">![GopherParrot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GopherParrot&show_icons=true&theme=tokyonight&hide_rank=true&count_private=true&custom_title=My%20Code%20Journey)</p>  
+  
+## <p align="center">My most used language </p>  
+<div align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=GopherParrot&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /><br>  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GopherParrot&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph" />  
+</div><br>  
+  
+### And some random facts, shall we?  
+- Everything I build lives under Maple Studio  
+- I think terminal apps deserve good UI  
+- Robotics is just programming with consequences  
+- `print()` is my friend for debugging ✌
+- 🪑 
+- My TODO list has TODOs
+  
+<p align="center">  
+Nice. You know too much now, good to see you around, bye :D✌  
+</p>  
+  
+<p align="center">  
+Happy Coding!  
+</p>  
+  
+### <p align="center"> may your bugs always reproduce exponentially 🔥 </p>
 <p align="center"><img src="https://media.tenor.com/7UHqqhLP8tgAAAAi/stk.gif" width=100></p>
