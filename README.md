@@ -1,10 +1,26 @@
+<!--
+This is the source code for the README.md
+
+Archivement Unlocked: How did we get here?
+-->
+
 # <p align="center"> Why don't programmers like nature?</p>  
 <p align="center">too many bugs</p>  
 <hr>  
 isnt that funny? :)
-  
+
+<!--
+
+if you're reading this...
+
+you probably inspect source code.
+
+we'd get along.
+
+-->
+
 # <p align="center">Yo I'm **William** </p>  
-<p align="center"><img src="https://media.tenor.com/7UHqqhLP8tgAAAAi/stk.gif" width=100></p>  
+<p align="center"><img src="https://media.tenor.com/7UHqqhLP8tgAAAAi/stk.gif" width=100 title="I spent longer centering this than writing this"></p>  
   
 I am a **STUDENT** who spends too much time writing **Go**.  
   
@@ -18,7 +34,13 @@ My error handling has error handling.
 ## <p align="center">1 - *Skills and Tech Stack* </p>  
 <p align="center">  
   <img src="https://skillicons.dev/icons?i=go,blender,python,javascript,html,css,mysql,vscode,github,git,docker,googlecloud,arduino,c,cpp,java,cs,firebase,flutter,gitlab,godot,neovim,raspberrypi,stackoverflow,gmail,eclipse,vercel,lua,bash&perline=8&theme=dark" alt="My Skills">  
-</p>  
+</p>
+
+<!--
+Fun fact:
+
+This README has undergone more debugging than some of my projects.
+--> 
   
 ## <p align="center">2 - *My GitHub Streak*</p>  
   
