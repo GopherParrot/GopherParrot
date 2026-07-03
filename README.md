@@ -47,8 +47,34 @@ Nice. You know too much now, good to see you around, bye :D✌
 </p>  
   
 <p align="center">  
-Happy Coding!  
-</p>  
+Happy Coding!
+
+Before you leave, here's a tiny program to live by:
+</p>
+
+```golang
+package main
+
+import (
+	"crypto/sha256"
+	"fmt"
+	"os"
+)
+
+func main() {
+	sourceCode, err := os.ReadFile("main.go")
+	if err != nil {
+		panic("Someone touched the file system! 😭✌️🥀")
+	}
+	expectedSize := 634
+
+	if len(sourceCode) != expectedSize {
+		fmt.Printf("Current size: %d bytes. Expected: %d bytes.\n", len(sourceCode), expectedSize)
+		panic("Yo (said with rizz), congratulations. You fixed nothing and broke everything. How pathetic.")
+	}
+	fmt.Println("If it works, don't touch it")
+}
+```
   
 ### <p align="center"> may your bugs always reproduce exponentially 🔥 </p>
 <p align="center"><img src="https://media.tenor.com/7UHqqhLP8tgAAAAi/stk.gif" width=100></p>
