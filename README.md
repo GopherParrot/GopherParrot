@@ -90,3 +90,17 @@ func main() {
 <p align="center"><img src="https://media.tenor.com/7UHqqhLP8tgAAAAi/stk.gif" width=100></p>
 
 #### > Made by Maple Studio 🍁. I've wasted your time reading these.
+
+<!--
+Congratulations.
+
+You found the HTML comment.
+
+There's nothing here.
+
+Go touch some grass.
+
+Or write more Go.
+
+Preferably the second one.
+-->
