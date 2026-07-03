@@ -1668,6 +1668,10 @@ Wait, you're still here?
 
 progress: 1/??
 
+Achievement progress:
 ☑ Read the README
 ☐ Touch grass
+
+Congratulations!
+100% README completed!
 -->
