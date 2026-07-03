@@ -1,7 +1,7 @@
 # <p align="center"> Why don't programmers like nature?</p>  
 <p align="center">too many bugs</p>  
 <hr>  
-isnt that funny?  
+isnt that funny? :)
   
 # <p align="center">Yo I'm **William** </p>  
 <p align="center"><img src="https://media.tenor.com/7UHqqhLP8tgAAAAi/stk.gif" width=100></p>  
