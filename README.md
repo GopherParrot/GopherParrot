@@ -1,8 +1,10 @@
 <!--
 This is the source code for the README.md
 
-Archivement Unlocked: How did we get here?
+🏆 Achievement Unlocked: How did we get here?
 -->
+
+<!-- 🍁 -->
 
 # <p align="center"> Why don't programmers like nature?</p>  
 <p align="center">too many bugs</p>  
@@ -88,11 +90,12 @@ Before you leave, here's a tiny program to live by:
 package main
 
 import (
-	"crypto/sha256"
+	//"crypto/sha256" // idk why I imported this
 	"fmt"
 	"os"
 )
 
+// TODO: remove this TODO.
 func main() {
 	sourceCode, err := os.ReadFile("main.go")
 	if err != nil {
@@ -111,9 +114,16 @@ func main() {
 ### <p align="center"> may your bugs always reproduce exponentially 🔥 </p>
 <p align="center"><img src="https://media.tenor.com/7UHqqhLP8tgAAAAi/stk.gif" width=100></p>
 
-#### > Made by Maple Studio 🍁. I've wasted your time reading these.
+#### > Made by Maple Studio 🍁. You've reached the end. Thanks for wasting your time here... 👀 unless... ;)
 
 <!--
+
+🏆 Achievement Unlocked
+
+Read an entire README.
+
++5 Programmer XP.
+
 Congratulations.
 
 You found the HTML comment.
