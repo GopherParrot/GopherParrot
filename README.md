@@ -49,7 +49,9 @@ My error handling has error handling.
 - `print()` is my friend for debugging ✌
 - 🪑 
 - My TODO list has TODOs
-  
+
+<hr>
+
 <p align="center">  
 Nice. You know too much now, good to see you around, bye :D✌  
 </p>  
