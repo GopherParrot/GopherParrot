@@ -1,4 +1,4 @@
-<p align="center"> Why don't programmers like nature?</p>
+#0# <p align="center"> Why don't programmers like nature?</p>
 
 <p align="center">too many bugs</p><hr>isnt that funny?
 
@@ -6,7 +6,9 @@
 
 <p align="center"><img src="https://media.tenor.com/7UHqqhLP8tgAAAAi/stk.gif" width=100></p>I am a STUDENT who spends too much time writing Go.
 
-That being said, my error handling has error handling?
+That being said,
+
+My error handling has error handling
 
 <hr><p align="center"> More about me if you're curious</p>
 
@@ -24,19 +26,18 @@ That being said, my error handling has error handling?
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=GopherParrot&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /><br>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GopherParrot&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph" /></div><br>And some random facts, shall we?
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GopherParrot&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph" /></div><br>
 
-Everything I build lives under Maple Studio
+##. And some random facts, shall we?
 
-I think terminal apps deserve good UI
-
-Robotics is just programming with consequences
-
-print() is my friend for debugging ✌
-
+- Everything I build lives under Maple Studio
+-I think terminal apps deserve good UI
+-Robotics is just programming with consequences
+-`print()` is my friend for debugging ✌
 
 <p align="center">Nice. You know too much now, good to see you around, bye :D✌
 
 </p><p align="center">Happy Coding!
 
 </p><p align="center"> may your bugs always reproduce exponentially 🔥 </p>
+<p align="center"><img src="https://media.tenor.com/7UHqqhLP8tgAAAAi/stk.gif" width=100></p>
