@@ -6,9 +6,12 @@ This is the source code for the README.md
 
 <!-- 🍁 -->
 
-# <p align="center"> Why don't programmers like nature?</p>  
-<p align="center">too many bugs</p>  
-<hr>  
+# <p align="center"> Why don't programmers like nature?</p>
+  
+<p align="center">too many bugs</p>
+  
+<hr>
+  
 isnt that funny? :)
 
 <!--
@@ -21,21 +24,33 @@ we'd get along.
 
 -->
 
-# <p align="center">Yo I'm **William** </p>  
-<p align="center"><img src="https://media.tenor.com/7UHqqhLP8tgAAAAi/stk.gif" width=100 title="I spent longer centering this than writing this"></p>  
-  
-I am a **STUDENT** who spends too much time writing **Go**.  
-  
+# <p align="center">Yo I'm **William** </p>
+  
+<p align="center"><img src="https://media.tenor.com/7UHqqhLP8tgAAAAi/stk.gif" width=100 title="I spent longer centering this than writing this"></p>
+  
+
+  
+I am a **STUDENT** who spends too much time writing **Go**.
+  
+
+  
 That being said,
 
 My error handling has error handling.  
-  
-<hr>  
-  
-# <p align="center"> More about me if you're curious</p>  
-## <p align="center">1 - *Skills and Tech Stack* </p>  
-<p align="center">  
-  <img src="https://skillicons.dev/icons?i=go,blender,python,javascript,html,css,mysql,vscode,github,git,docker,googlecloud,arduino,c,cpp,java,cs,firebase,flutter,gitlab,godot,neovim,raspberrypi,stackoverflow,gmail,eclipse,vercel,lua,bash&perline=8&theme=dark" alt="My Skills">  
+
+  
+<hr>
+  
+
+  
+# <p align="center"> More about me if you're curious</p>
+  
+## <p align="center">1 - *Skills and Tech Stack* </p>
+  
+<p align="center">
+  
+  <img src="https://skillicons.dev/icons?i=go,blender,python,javascript,html,css,mysql,vscode,github,git,docker,googlecloud,arduino,c,cpp,java,cs,firebase,flutter,gitlab,godot,neovim,raspberrypi,stackoverflow,gmail,eclipse,vercel,lua,bash&perline=8&theme=dark" alt="My Skills">
+  
 </p>
 
 <!--
@@ -43,19 +58,32 @@ Fun fact:
 
 This README has undergone more debugging than some of my projects.
 --> 
-  
-## <p align="center">2 - *My GitHub Streak*</p>  
-  
-## <p align="center">![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GopherParrot&theme=dark&hide_border=true)</p>  
-  
-## <p align="center">3 - *My GitHub Stats* </p>  
-  
-## <p align="center">![GopherParrot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GopherParrot&show_icons=true&theme=tokyonight&hide_rank=true&count_private=true&custom_title=My%20Code%20Journey)</p>  
-  
-## <p align="center">My most used language </p>  
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=GopherParrot&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /><br>  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GopherParrot&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph" />  
+
+  
+## <p align="center">2 - *My GitHub Streak*</p>
+  
+
+  
+## <p align="center">![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GopherParrot&theme=dark&hide_border=true)</p>
+  
+
+  
+## <p align="center">3 - *My GitHub Stats* </p>
+  
+
+  
+## <p align="center">![GopherParrot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GopherParrot&show_icons=true&theme=tokyonight&hide_rank=true&count_private=true&custom_title=My%20Code%20Journey)</p>
+  
+
+  
+## <p align="center">My most used language </p>
+  
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=GopherParrot&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /><br>
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GopherParrot&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph" />
+  
 </div><br>
 
 > If some of the GitHub stats are broken...
@@ -65,22 +93,32 @@ This README has undergone more debugging than some of my projects.
 > It's a **feature**.
 
 <hr>
-  
-### And some random facts, shall we?  
-- Everything I build lives under Maple Studio  
-- I think terminal apps deserve good UI  
-- Robotics is just programming with consequences  
+
+  
+### And some random facts, shall we?
+  
+- Everything I build lives under Maple Studio
+  
+- I think terminal apps deserve good UI
+  
+- Robotics is just programming with consequences
+  
 - `print()` is my friend for debugging ✌
 - 🪑 
 - My TODO list has TODOs
 
 <hr>
 
-<p align="center">  
-Nice. You know too much now, good to see you around, bye :D✌  
-</p>  
-  
-<p align="center">  
+<p align="center">
+  
+Nice. You know too much now, good to see you around, bye :D✌
+  
+</p>
+  
+
+  
+<p align="center">
+  
 Happy Coding!
 
 Before you leave, here's a tiny program to live by:
@@ -90,7 +128,6 @@ Before you leave, here's a tiny program to live by:
 package main
 
 import (
-	//"crypto/sha256" // idk why I imported this
 	"fmt"
 	"os"
 )
@@ -101,16 +138,33 @@ func main() {
 	if err != nil {
 		panic("Someone touched the file system! 😭✌️🥀")
 	}
-	expectedSize := 634
+
+	codeStr := string(sourceCode)
+
+	expectedSize := 933
+	oldLine := fmt.Sprintf("expectedSize := %d", expectedSize)
+	baseSize := len(codeStr) - len(oldLine)
+	perfectSize := 0
+	
+	for i := 1; i < 10000; i++ {
+		newLine := fmt.Sprintf("expectedSize := %d", i)
+		if baseSize+len(newLine) == i {
+			perfectSize = i
+			break
+		}
+	}
 
 	if len(sourceCode) != expectedSize {
 		fmt.Printf("Current size: %d bytes. Expected: %d bytes.\n", len(sourceCode), expectedSize)
-		panic("Yo (said with rizz), congratulations. You fixed nothing and broke everything. How pathetic.")
+		fmt.Printf("💡 PRO TIP: Change expectedSize to exactly: %d\n", perfectSize)
+		panic("Yo (said with rizz), congratulations. You fixed nothing and broke everything. How pathetic. 🥀")
 	}
+
 	fmt.Println("If it works, don't touch it")
 }
 ```
-  
+
+  
 ### <p align="center"> may your bugs always reproduce exponentially 🔥 </p>
 <p align="center"><img src="https://media.tenor.com/7UHqqhLP8tgAAAAi/stk.gif" width=100></p>
 
