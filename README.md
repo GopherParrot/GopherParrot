@@ -141,27 +141,28 @@ func main() {
 
 	codeStr := string(sourceCode)
 
-	expectedSize := 933
+	expectedSize := 926
 	oldLine := fmt.Sprintf("expectedSize := %d", expectedSize)
 	baseSize := len(codeStr) - len(oldLine)
-	perfectSize := 0
-	
+	chosenOne := 0
+
 	for i := 1; i < 10000; i++ {
 		newLine := fmt.Sprintf("expectedSize := %d", i)
 		if baseSize+len(newLine) == i {
-			perfectSize = i
+			chosenOne = i
 			break
 		}
 	}
 
 	if len(sourceCode) != expectedSize {
 		fmt.Printf("Current size: %d bytes. Expected: %d bytes.\n", len(sourceCode), expectedSize)
-		fmt.Printf("💡 PRO TIP: Change expectedSize to exactly: %d\n", perfectSize)
+		fmt.Printf("💡 PRO TIP: Change expectedSize to exactly: %d\n", chosenOne)
 		panic("Yo (said with rizz), congratulations. You fixed nothing and broke everything. How pathetic. 🥀")
 	}
 
 	fmt.Println("If it works, don't touch it")
 }
+
 ```
 
   
