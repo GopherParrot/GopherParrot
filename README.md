@@ -141,7 +141,7 @@ func main() {
 
 	codeStr := string(sourceCode)
 
-	expectedSize := 926
+	expectedSize := 989
 	oldLine := fmt.Sprintf("expectedSize := %d", expectedSize)
 	baseSize := len(codeStr) - len(oldLine)
 	chosenOne := 0
@@ -161,6 +161,7 @@ func main() {
 	}
 
 	fmt.Println("If it works, don't touch it")
+	fmt.Println("Now close the file before you break it again.")
 }
 
 ```
