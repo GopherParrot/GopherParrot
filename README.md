@@ -4,8 +4,6 @@ This is the source code for the README.md
 🏆 Achievement Unlocked: How did we get here?
 -->
 
-<!-- 🍁 -->
-
 # <p align="center"> Why don't programmers like nature?</p>
   
 <p align="center">too many bugs</p>
@@ -60,7 +58,7 @@ This README has undergone more debugging than some of my projects.
 --> 
 
   
-## <p align="center">2 - *My GitHub Streak*</p>
+<!-- ## <p align="center">2 - *My GitHub Streak*</p>
   
 
   
@@ -74,7 +72,7 @@ This README has undergone more debugging than some of my projects.
   
 ## <p align="center">![GopherParrot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GopherParrot&show_icons=true&theme=tokyonight&hide_rank=true&count_private=true&custom_title=My%20Code%20Journey)</p>
   
-
+-->
   
 ## <p align="center">My most used language </p>
   
@@ -97,15 +95,19 @@ This README has undergone more debugging than some of my projects.
   
 ### And some random facts, shall we?
   
-- Everything I build lives under Maple Studio
+- Everything I build lives under Brew Studio
   
 - I think terminal apps deserve good UI
   
 - Robotics is just programming with consequences
   
 - `print()` is my friend for debugging ✌
-- 🪑 
+  
+- 🪑
+  
 - My TODO list has TODOs
+
+- Brew Studio isn't a coffee shop btw
 
 <hr>
 
@@ -170,7 +172,7 @@ func main() {
 ### <p align="center"> may your bugs always reproduce exponentially 🔥 </p>
 <p align="center"><img src="https://media.tenor.com/7UHqqhLP8tgAAAAi/stk.gif" width=100></p>
 
-#### > Made by Maple Studio 🍁. You've reached the end. Thanks for wasting your time here... 👀 unless... ;)
+#### > Made by Brew Studio. You've reached the end. Thanks for wasting your time here... 👀 unless... ;)
 
 <!--
 
@@ -1720,7 +1722,7 @@ Wait, you're still here?
 <!-- Ok, since you've made it this far
 
 
-🍁 +1 Maple leaf collected!
+🍁 +1 Morning Cappuccino!
 
 progress: 1/??
 
